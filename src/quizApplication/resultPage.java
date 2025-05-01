@@ -30,11 +30,6 @@ import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
 
-/**
- * This class displays the results page of the quiz application
- * @author PRATHAMESH (UI improved)
- * @since 01/05/2025
- */
 public class resultPage extends JFrame {
     
     private static final long serialVersionUID = 8529261744703725825L;
